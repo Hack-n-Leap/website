@@ -1,3 +1,9 @@
+![Contributors][contributors-shield]
+![Commit Activity][commitactivity-shield]
+![Stars][stars-shield]
+![Issue][issues-shield]
+![License][license-shield]
+
 <p align="center">
   <img width="250px" src="https://github.com/Hack-n-Leap/website/assets/79806369/a58bcb99-cd1f-46df-95aa-9e8bfa6a9713" alt="Hack'n'Leap LOGO" align="center">
   <h1 align="center">Hack'n'Leap Website</h1>
@@ -20,3 +26,9 @@ We welcome contributions from everyone. If you would like to contribute, please 
 
 ## License
 This project is distribued under the [MIT](https://github.com/Hack-n-Leap/game/blob/main/LICENSE) license.
+
+[contributors-shield]: https://img.shields.io/github/contributors/Hack-n-Leap/website?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Hack-n-Leap/website?style=for-the-badge
+[commitactivity-shield]: https://img.shields.io/github/commit-activity/m/Hack-n-leap/website?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Hack-n-leap/website?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Hack-n-leap/website?style=for-the-badge
