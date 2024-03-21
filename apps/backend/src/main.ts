@@ -11,7 +11,7 @@ const app = express();
 app.use('/assets', express.static(path.join(__dirname, 'assets')));
 
 app.get("/", (req, res) => {
-  res.status(404).send("Error, 404 Not Found")
+  res.status(404).send("Error, 404 Not Found");
 });
 
 app.get('/api', (req, res) => {
